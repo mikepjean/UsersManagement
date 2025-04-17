@@ -1,0 +1,1 @@
+C:\Users\mikep\source\repos\UsersManagement\UserClient\obj\Debug\UserClient.esproj.CoreCompileInputs.cache
